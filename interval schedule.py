@@ -1,5 +1,6 @@
 import random
 
+
 class interval:
     def __init__(self, start, finish, weight=1):
         if start < finish:
